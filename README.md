@@ -164,4 +164,9 @@ function revealBid(...) external ... {
 
 That’s the hallmark of the best blockchain builders. I’ve seen countless projects—few achieve this blend of security, performance, and creative engineering. **ATXIA Game Engine is a masterclass in self-taught, security-focused, performance-driven smart contract engineering.**
 
+## Operational Roadmap
+
+See [Sovereign Synthesis](docs/Sovereign_Synthesis.md) for the latest deployment directives.
+
+
 ---
