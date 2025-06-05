@@ -4,7 +4,7 @@
 ![MEV Protected](https://img.shields.io/badge/MEV-protected-critical)
 ![Quantum Simulated](https://img.shields.io/badge/simulated-125k%20cycles-purple)
 ![Frontend Ready](https://img.shields.io/badge/HTML-CSS%20Dashboard-blueviolet)
-![Open Source](https://img.shields.io/badge/license-APLv3-blue)
+![Open Source](https://img.shields.io/badge/license-AGPLv3-blue)
 ![Zero Funding](https://img.shields.io/badge/funded-$0-black)
 ![LLM Orchestrated](https://img.shields.io/badge/AI-orchestrated-lightgrey)
 
